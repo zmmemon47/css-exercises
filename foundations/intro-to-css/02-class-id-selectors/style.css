@@ -1,0 +1,21 @@
+.myclass {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id1 {
+    font-family: sans-serif;
+    font-size: xx-large;
+    color:blue;
+
+}
+.big {
+    font-size: x-large;
+}
+
+#id2 {
+    font-size: x-large;
+    font-weight: bold;
+    font-family: sans-serif;
+    background-color: green;
+}
